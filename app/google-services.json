@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636634830817",
+    "project_id": "noty-84fbd",
+    "storage_bucket": "noty-84fbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636634830817:android:cb0af88cae99dd252f24a0",
+        "android_client_info": {
+          "package_name": "com.TiE.noty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636634830817-469briqut077369fvl3ii98mhmv2uplf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLhLY3UgcnLNseGlkznTWu4RmOhmPLVwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636634830817-469briqut077369fvl3ii98mhmv2uplf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
